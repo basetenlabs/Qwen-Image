@@ -1,3 +1,6 @@
+# QAD on Qwen Image
+Worklog of QAD [here](https://www.notion.so/ml-infra/Image-Generation-QAD-2f991d247273801d943af5ab3e149c70?source=copy_link)
+Worklog of [PTQ](https://www.notion.so/ml-infra/Quantization-PlayBook-2f291d247273809fa178dba207dc02e0?source=copy_link)
 <p align="center">
     <img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/qwen_image_logo.png" width="400"/>
 <p> 
@@ -605,6 +608,7 @@ If you're passionate about fundamental research, we're hiring full-time employee
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=QwenLM/Qwen-Image&type=Date)](https://www.star-history.com/#QwenLM/Qwen-Image&Date)
+
 
 
 
